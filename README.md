@@ -1,1 +1,1 @@
-# 100-days-of-python
+# ML Discord Bot
